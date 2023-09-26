@@ -1,7 +1,6 @@
 # 2023-ISW-4K3-G6
 
 ## Convención de Nomeclatura
-[AGREGAR DESCRIPCION]
 
 | Nombre del Ítem de Configuración | Regla de Nombrado | Ubicación física | Tipo de Ítem [Producto/Proyecto/Iteración] |
 |----------------------------------|-------------------|------------------|--------------------------------------------|
